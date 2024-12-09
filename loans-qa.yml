@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to AurumBank loans related QA APIs"
+  contactDetails:
+    name: "Silvano"
+    email: "team-qa@aurum.ro"
+  onCallSupport:
+    - (0757) 234 456
+    - (0757) 234 457

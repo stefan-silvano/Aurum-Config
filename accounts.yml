@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to AurumBank accounts related local APIs"
+  contactDetails:
+    name: "Stefan"
+    email: "team@aurum.ro"
+  onCallSupport:
+    - (0757) 123 456
+    - (0757) 123 457

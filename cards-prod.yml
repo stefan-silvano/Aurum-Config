@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to AurumBank cards related Prod APIs"
+  contactDetails:
+    name: "Alex"
+    email: "team-prod@aurum.ro"
+  onCallSupport:
+    - (0757) 345 456
+    - (0757) 345 457
