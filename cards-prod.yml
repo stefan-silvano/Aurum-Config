@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to AurumBank cards related Prod APIs"
+  message: "Welcome to AurumBank cards related Production APIs"
   contactDetails:
     name: "Alex"
     email: "team-prod@aurum.ro"
