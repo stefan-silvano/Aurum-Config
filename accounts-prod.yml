@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to AurumBank accounts related Prod APIs"
+  message: "Welcome to AurumBank accounts related Production APIs"
   contactDetails:
     name: "Alex"
     email: "team-prod@aurum.ro"
