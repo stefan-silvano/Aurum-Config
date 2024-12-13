@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to AurumBank loans related Production APIs"
+  message: "Welcome to AurumBank loans related Production RabbitMQ APIs"
   contactDetails:
     name: "Alex"
     email: "team-prod@aurum.ro"
